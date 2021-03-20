@@ -1,0 +1,7 @@
+
+Este Script puede identificar sistemas de segundo orden y subamortiguados, es decir, 0 < Deltta < 1
+
+Obteniendo datos de fomrma experimental en el Laboratorio
+
+Los datos deben de tener un orden especifico en el arreglo.
+Ejemplo: ('MasasLazoAbierto.mat')
